@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto',sans-serif !important;
+    font-size: 12px !important;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+    margin-left: 0.5em;
+    display: inline-block;
+    width: 114px;
+}
+
+.btn-group, .btn-group-vertical {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 10px;
+    width:100%;
+}
+
+.skin-blue-light {
+    font-size: 12px;
+}
+
+.skin-blue-light .sidebar-menu .treeview-menu>li.active>a {
+    font-weight: 200;
+}
